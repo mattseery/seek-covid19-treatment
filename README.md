@@ -1,4 +1,4 @@
-# Diagnosis seeking COVID-19 treatment
+# Diagnoses seeking COVID-19 treatment
 This GitHub repository contains data and code relating to a patient questionnaire conducted by a independent market research agency based in Australia.
 
 ## Brief project description
