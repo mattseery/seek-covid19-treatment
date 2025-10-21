@@ -6,4 +6,4 @@ I was provided with the results of a questionnaire which included responses to d
 treatment if diagnosed with COVID-19.
 
 ## Analysis
-The chi square test and odds ratio were used to determine which type of diagnosis was more likely seel medical treatment for a COVID-19 treatment. The analysis was performed using python in a jupyter notebook.
+The chi square test and odds ratio were used to determine which type of diagnosis was more likely to seek medical treatment for a COVID-19 treatment. The analysis was performed using python in a jupyter notebook.
